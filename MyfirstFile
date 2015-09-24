@@ -1,9 +1,11 @@
 class TestApp {
 
-public static final String FLAGS = "yes or no";
+    public static final String FLAGS = "yes or no";
+    public static final String VLUAS = "yes";
 
     public static void main (String[] args){
        System.out.println("Hello, World");
        System.out.println(FLAGS);
+       System.out.println(VLUAS);
     }
 }
