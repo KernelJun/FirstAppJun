@@ -1,0 +1,13 @@
+/*
+* 蒋辉军 commit
+*/
+
+public class MidAutumnFestival {
+
+    private static final String HappyDay = "各位，中秋节快乐！";
+    
+    public static void main(String[] args){
+        System.out.println(HappyDay);
+    }
+
+}
