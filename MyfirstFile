@@ -7,5 +7,6 @@ class TestApp {
        System.out.println("Hello, World");
        System.out.println(FLAGS);
        System.out.println(VLUAS);
+       System.out.println("test");
     }
 }
