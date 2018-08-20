@@ -8,5 +8,6 @@ class TestApp {
        System.out.println(FLAGS);
        System.out.println(VLUAS);
        System.out.println("test");
+       System.out.println("test2");
     }
 }
