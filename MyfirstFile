@@ -9,5 +9,6 @@ class TestApp {
        System.out.println(VLUAS);
        System.out.println("test");
        System.out.println("test2");
+       System.out.println("branch test 2");
     }
 }
