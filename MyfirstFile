@@ -9,6 +9,10 @@ class TestApp {
        System.out.println(VLUAS);
        System.out.println("test");
        System.out.println("test2");
+<<<<<<< HEAD
        System.out.println("test 主分支的cherriy-pick");
+=======
+       System.out.println("branch test 2");
+>>>>>>> 1311f16... KernelJun:分支测试 test 2
     }
 }
