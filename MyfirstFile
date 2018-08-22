@@ -13,6 +13,7 @@ class TestApp {
        System.out.println("test 主分支的cherriy-pick");
 =======
        System.out.println("branch test 2");
+       System.out.println("rebase test 2");
 >>>>>>> 1311f16... KernelJun:分支测试 test 2
     }
 }
